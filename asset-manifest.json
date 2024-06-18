@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2a70a18c.css",
-    "main.js": "/static/js/main.727efb2a.js",
+    "main.js": "/static/js/main.f549cbd5.js",
     "static/media/mcu.jpg": "/static/media/mcu.f0c24327cfe72ccfbab3.jpg",
     "static/media/network.jpg": "/static/media/network.c13d1759aab7423b44df.jpg",
     "static/media/aiot.jpg": "/static/media/aiot.a2ae5f2def789703e434.jpg",
@@ -46,10 +46,10 @@
     "static/media/minus.svg": "/static/media/minus.595a628f1d89b51f5ee67012ae076ac8.svg",
     "static/media/facebook-icon.svg": "/static/media/facebook-icon.8f6512c4ee4f21763666f0f3b69d970d.svg",
     "main.2a70a18c.css.map": "/static/css/main.2a70a18c.css.map",
-    "main.727efb2a.js.map": "/static/js/main.727efb2a.js.map"
+    "main.f549cbd5.js.map": "/static/js/main.f549cbd5.js.map"
   },
   "entrypoints": [
     "static/css/main.2a70a18c.css",
-    "static/js/main.727efb2a.js"
+    "static/js/main.f549cbd5.js"
   ]
 }
